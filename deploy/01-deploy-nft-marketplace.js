@@ -5,7 +5,6 @@ const { verify } = require("../utils/verify")
 module.exports = async function ({ deployments, getNamedAccounts }) {
     const { deploy, log } = deployments
     const { deployer } = await getNamedAccounts()
-
     log("--------------------------")
     let args = []
     const nftMarketplace = await deploy("NftMarketplace", {
