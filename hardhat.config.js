@@ -34,6 +34,7 @@ module.exports = {
             accounts: [PRIVATE_KEY],
             chainId: 5,
             blockConfirmations: 6,
+            saveDeployments: true,
         },
     },
     solidity: {
