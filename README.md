@@ -5,6 +5,7 @@
 * This is the back-end part of the Decentralized NFT Marketplace project, whose front-end code using Next.js and The Graph indexing protocol can be seen [here](https://github.com/narendra-sajwani/nextjs-nft-marketplace-the-graph)
 * Another approach, I used to build the front-end of the project is using Next.js with Moralis server to index the events emitted by NFT Marketplace smart contract. The code for which can be seen [here](https://github.com/narendra-sajwani/nextjs-nft-marketplace-moralis)
 * This is Full-Fleged backend project with necessary testing, utility and deployment scripts. 
+* The url for the deployed project on vercel is [this](https://nextjs-nft-marketplace-the-graph-nine.vercel.app/)
 
 ## Functionalities
  * `listItem`: List NFTs on marketplace
